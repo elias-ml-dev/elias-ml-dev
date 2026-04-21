@@ -9,6 +9,9 @@
 Estudante de IA & Machine Learning e Técnico em Desenvolvimento de Sistemas. Foco em Python para dados, JavaScript para aplicações web e construção de soluções inteligentes com base em dados.
 
 ---
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/67ee797c-33d4-4ba4-8f51-b59906083976" width="75%" alt="Desenho de foco e tecnologia" />
+</div>
 
 ### 🛠️ No que estou focado:
 * 🐍 **Python:** Especialização em análise de dados e automação.
