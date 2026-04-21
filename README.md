@@ -10,7 +10,7 @@ Estudante de IA & Machine Learning e Técnico em Desenvolvimento de Sistemas. Fo
 
 ---
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/67ee797c-33d4-4ba4-8f51-b59906083976" width="75%" alt="Desenho de foco e tecnologia" />
+  <img src="https://github.com/user-attachments/assets/67ee797c-33d4-4ba4-8f51-b59906083976" width="80%" alt="Desenho de foco e tecnologia" />
 </div>
 
 ### 🛠️ No que estou focado:
