@@ -6,9 +6,7 @@
 
 ## 👋 Sobre mim
 
-Sou estudante de **Graduação em Inteligência Artificial e Machine Learning**, complementando minha formação com o curso **Técnico em Desenvolvimento de Sistemas**.
-
-Meu foco atual é aprofundar conhecimentos em **Python para Análise de Dados** e **JavaScript para a criação de sistemas**. Busco unir a lógica de desenvolvimento de software com o potencial da ciência de dados para criar soluções inteligentes e escaláveis.
+Estudante de IA & Machine Learning e Técnico em Desenvolvimento de Sistemas. Foco em Python para dados, JavaScript para aplicações web e construção de soluções inteligentes com base em dados.
 
 ---
 
