@@ -6,52 +6,65 @@
 
 ## 👋 Sobre mim
 
-Estudante de IA & Machine Learning e Técnico em Desenvolvimento de Sistemas. Foco em Python para dados, JavaScript para aplicações web e construção de soluções inteligentes com base em dados.
-
----
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/67ee797c-33d4-4ba4-8f51-b59906083976" width="80%" alt="Desenho de foco e tecnologia" />
-</div>
-
-### 🛠️ No que estou focado:
-* 🐍 **Python:** Especialização em análise de dados e automação.
-* 🌐 **JavaScript:** Desenvolvimento de sistemas e lógica web.
-* 🤖 **IA & ML:** Estudo de modelos preditivos e algoritmos inteligentes.
-* 🏗️ **Dev:** Arquitetura de sistemas e infraestrutura de TI.
+Estudante de IA & Machine Learning e Técnico em Desenvolvimento de Sistemas.  
+Foco em Python para dados, JavaScript para aplicações web e construção de soluções inteligentes baseadas em dados.
 
 ---
 
-<p align="left">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/67ee797c-33d4-4ba4-8f51-b59906083976" width="80%" />
+</p>
+
+---
+
+## 🛠️ Foco atual
+
+- 🐍 **Python:** Análise de dados e automação  
+- 🌐 **JavaScript:** Aplicações web e lógica  
+- 🤖 **IA & ML:** Modelos preditivos e algoritmos  
+- 🏗️ **Dev:** Arquitetura e fundamentos de sistemas  
+
+---
+
+## 🌐 Contato
+
+<p>
   <a href="https://www.linkedin.com/in/elias-santos-dev/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:eliass.s@outlook.com.br">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🤖 Linguagens & Tecnologias
+## 🤖 Linguagens & Tecnologias
 
-<div style="display:flex; gap:8px; flex-wrap:wrap; align-items:center;">
-  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-  <img alt="NumPy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-  <img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img alt="Scikit-Learn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-  <img alt="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-  <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-</div>
+<p>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</p>
 
-<br/>
+---
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
-<p align="left">
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=elias-ml-dev&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=1800" /> 
-  <img alt="Top Langs" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elias-ml-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5&cache_seconds=1800" />
+<p align="center">
+  <img 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=elias-ml-dev&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" 
+  />
+  <img 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=elias-ml-dev&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" 
+  />
 </p>
