@@ -52,8 +52,6 @@ Estudante de IA & Machine Learning e Técnico em Desenvolvimento de Sistemas. Fo
 ### 📊 Estatísticas
 
 <p align="left">
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=elias-ml-dev&show_icons=true&theme=tokyonight&locale=pt-br" /> 
-  <img alt="Top Langs" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elias-ml-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" />
+  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=elias-ml-dev&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=1800" /> 
+  <img alt="Top Langs" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elias-ml-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5&cache_seconds=1800" />
 </p>
-
-<br clear="left"/>
