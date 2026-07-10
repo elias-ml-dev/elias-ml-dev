@@ -53,18 +53,3 @@ Foco em Python para dados, JavaScript para aplicações web e construção de so
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </p>
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=elias-ml-dev&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" 
-  />
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=elias-ml-dev&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" 
-  />
-</p>
