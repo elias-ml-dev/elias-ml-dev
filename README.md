@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Elias Santos Silva
+# 👨‍💻 Elias Santos Silva
 
 **Graduando em IA & Machine Learning | Técnico em Desenvolvimento de Sistemas**
 
@@ -6,7 +6,7 @@
 
 ## 👋 Sobre mim
 
-Estudante de IA & Machine Learning e Técnico em Desenvolvimento de Sistemas.  
+Estudante de IA & Machine Learning e Técnico em Desenvolvimento de Sistemas.
 Foco em Python para dados, JavaScript para aplicações web e construção de soluções inteligentes baseadas em dados.
 
 ---
@@ -19,10 +19,10 @@ Foco em Python para dados, JavaScript para aplicações web e construção de so
 
 ## 🛠️ Foco atual
 
-- 🐍 **Python:** Análise de dados e automação  
-- 🌐 **JavaScript:** Aplicações web e lógica  
-- 🤖 **IA & ML:** Modelos preditivos e algoritmos  
-- 🏗️ **Dev:** Arquitetura e fundamentos de sistemas  
+- 🐍 **Python:** Análise de dados e automação
+- 🌐 **JavaScript:** Aplicações web e lógica
+- 🤖 **IA & ML:** Modelos preditivos e algoritmos
+- 🏗️ **Dev:** Arquitetura e fundamentos de sistemas
 
 ---
 
@@ -39,7 +39,7 @@ Foco em Python para dados, JavaScript para aplicações web e construção de so
 
 ---
 
-## 🤖 Linguagens & Tecnologias
+## 💻 Linguagens & Tecnologias
 
 <p>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -53,3 +53,13 @@ Foco em Python para dados, JavaScript para aplicações web e construção de so
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </p>
+
+---
+
+## 🐍 Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elias-ml-dev/elias-ml-dev/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elias-ml-dev/elias-ml-dev/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/elias-ml-dev/elias-ml-dev/output/github-snake.svg">
+</picture>
