@@ -63,3 +63,11 @@ Estudante focado em desenvolvimento de software, análise de dados e inteligênc
 <p align="center">
   <i>🚀 Sempre aprendendo. Sempre construindo.</i>
 </p>
+
+---
+
+## 📊 Tecnologias mais utilizadas
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elias-ml-dev&theme=tokyonight" alt="Top Languages" />
+</p>
